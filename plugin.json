@@ -3,15 +3,15 @@
     "name": "Image Editor Pro",
     "category": "visual elements",
     "description": "A minimalistic, embeddable image editor with canvas-based editing tools. Features brush, erase, move, crop, zoom, brightness/contrast adjustment, undo/redo, and webhook export. Perfect for image editing workflows in Bubble apps.",
-    "author": "MiniMax Agent",
+    "author": "Hundredjack OÜ",
     "version": "1.0.0",
     "price": 0,
     "monthly_price": 0,
-    "repo_url": "https://github.com/minimax-agent/bubble-image-editor-plugin",
+    "repo_url": "https://github.com/hundredjack/bubble-image-editor-plugin",
     "demo_url": "https://lmqkf0940zey.space.minimax.io",
-    "icon": "https://cdn.jsdelivr.net/gh/minimax-agent/bubble-image-editor-plugin@1.0.0/assets/icon.png"
+    "icon": "https://cdn.jsdelivr.net/gh/hundredjack/bubble-image-editor-plugin@1.0.0/assets/icon.png"
   },
-  "script_url": "https://cdn.jsdelivr.net/gh/minimax-agent/bubble-image-editor-plugin@1.0.0/dist/bubble-plugin.min.js",
+  "script_url": "https://cdn.jsdelivr.net/gh/hundredjack/bubble-image-editor-plugin@1.0.0/dist/bubble-plugin.min.js",
   "elements": {
     "Image Editor Canvas": {
       "category": "visual elements",
